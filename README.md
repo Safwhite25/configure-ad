@@ -1,5 +1,6 @@
 <p align="center">
-<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
+<img width="305" height="307" alt="image" src="https://github.com/user-attachments/assets/d8e76aaf-beaf-473b-b72a-e80d522fa0d4" />
+
 </p>
 
 <h1>IT Project: Creating an Azure Virtual Machine</h1>
@@ -58,3 +59,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 <img width="1483" height="862" alt="image" src="https://github.com/user-attachments/assets/21f414a1-5d41-4a25-89c5-d0644ce15789" />
+Your virtual machine is now fully configured and ready to be used!
