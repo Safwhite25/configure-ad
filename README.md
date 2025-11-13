@@ -18,10 +18,10 @@ This tutorial outlines the step by step implementation to launch a single Azure 
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Go to https://portal.azure.com/#home
+- Log in and Confirm Active Azure subscription
+- Select Create resource and Create Virtual Machine
+- Configure Virtual Machine to Desired size for desired use
 
 <h2>Deployment and Configuration Steps</h2>
 
@@ -51,3 +51,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
+
+
+<img width="1495" height="890" alt="image" src="https://github.com/user-attachments/assets/eedbc79d-e49a-45cb-a8d4-fe39151cafec" />
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+<img width="1483" height="862" alt="image" src="https://github.com/user-attachments/assets/21f414a1-5d41-4a25-89c5-d0644ce15789" />
