@@ -31,32 +31,38 @@ This tutorial outlines the step by step implementation to launch a single Azure 
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once you are logged in on the appropriate Azure subscription select create resource.
+
 </p>
 <br />
 
 <p>
 <img <img width="1673" height="972" alt="image" src="https://github.com/user-attachments/assets/fa002d33-2bf5-4f34-8143-86301b6536d0" />
-"/>
+
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Select the option to create a virtual machine.
+
+
+
 </p>
 <br />
 
 <p>
 <img <img width="1683" height="905" alt="image" src="https://github.com/user-attachments/assets/1d07c273-ceb2-4b4a-ae5f-1e08e273e1db" />
-"/>
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In the course of creating a single virtual machine the prompts also creates a resource group. This resource group can later be used to create a virtual computer network if needed or desired.
 </p>
 <br />
 
 
 <img width="1495" height="890" alt="image" src="https://github.com/user-attachments/assets/eedbc79d-e49a-45cb-a8d4-fe39151cafec" />
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Create a name for the resource group. Create a user name and password for the single virtual machine.
+
+Confiigre disk size, OS and ports for desired usage.
+
 
 <img width="1483" height="862" alt="image" src="https://github.com/user-attachments/assets/21f414a1-5d41-4a25-89c5-d0644ce15789" />
 Your virtual machine is now fully configured and ready to be used!
