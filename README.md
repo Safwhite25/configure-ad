@@ -3,7 +3,7 @@
 
 </p>
 
-<h1>IT Project: Creating an Azure Virtual Machine</h1>
+<h1>Creating an Azure Virtual Machine</h1>
 This tutorial outlines the step by step implementation to launch a single Azure Virtual Machine
 <br />
 
